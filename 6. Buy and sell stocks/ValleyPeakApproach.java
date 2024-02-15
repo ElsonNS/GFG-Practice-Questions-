@@ -1,3 +1,4 @@
+//Optmized Approach
 import java.util.Scanner;
 
 public class ValleyPeakApproach {
