@@ -5,7 +5,7 @@ class Bruteforce{
         int cnt = numberofInversions(a, n);
         System.out.println("The number of inversions is: "+ cnt);
     }
-
+    
     public static int numberofInversions(int[] a, int n){
         int cnt = 0;
         for (int i = 0; i < n; i++)
